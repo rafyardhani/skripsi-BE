@@ -1,0 +1,298 @@
+id;nama;warna;bentuk;kristal
+4;ncd.11.jpg;hijau muda;cair;tidak
+5;ncd.12.jpg;hijau muda;cair;tidak
+6;ncd.14.jpg;hijau muda;cair;tidak
+7;ncd.21.jpg;hijau muda;cair;tidak
+8;ncd.22.jpg;hijau muda;cair;tidak
+9;ncd.23.jpg;hijau muda;cair;tidak
+10;ncd.25.jpg;hijau muda;cair;tidak
+11;ncd.26.jpg;hijau muda;cair;tidak
+12;ncd.28.jpg;hijau muda;cair;tidak
+13;ncd.30.jpg;hijau muda;cair;tidak
+14;ncd.31.jpg;hijau muda;cair;tidak
+15;ncd.33.jpg;hijau muda;cair;tidak
+16;ncd.36.jpg;hijau muda;cair;tidak
+17;ncd.40.jpg;hijau muda;cair;tidak
+18;ncd.62.jpg;hijau muda;cair;tidak
+19;ncd.63.jpg;hijau muda;padat;tidak
+20;ncd.64.jpg;hijau muda;cair;tidak
+21;ncd.68.jpg;hijau muda;cair;tidak
+22;ncd.68.jpg;hijau muda;cair;tidak
+23;ncd.69.jpg;hijau muda;cair;tidak
+24;ncd.371.jpg;hijau muda;cair;tidak
+25;ncd.156.jpg;hijau muda;cair;tidak
+26;ncd.86.jpg;hijau muda;cair;tidak
+27;ncd.93.jpg;hijau muda;cair;tidak
+28;ncd.86.jpg;hijau muda;cair;tidak
+29;ncd.161.jpg;hijau muda;cair;tidak
+30;ncd.162.jpg;hijau muda;cair;tidak
+31;ncd.163.jpg;hijau muda;cair;tidak
+32;ncd.164.jpg;hijau muda;cair;tidak
+33;ncd.165.jpg;hijau muda;cair;tidak
+34;ncd.166.jpg;hijau muda;cair;tidak
+35;ncd.167.jpg;hijau muda;cair;tidak
+36;ncd.168.jpg;hijau muda;cair;tidak
+37;ncd.169.jpg;hijau muda;cair;tidak
+38;ncd.170.jpg;hijau muda;cair;tidak
+39;ncd.171.jpg;hijau muda;cair;tidak
+40;ncd.172.jpg;hijau muda;cair;tidak
+41;ncd.173.jpg;hijau muda;cair;tidak
+42;ncd.174.jpg;hijau muda;cair;tidak
+43;ncd.175.jpg;hijau muda;cair;tidak
+44;ncd.176.jpg;hijau muda;cair;tidak
+45;ncd.177.jpg;hijau muda;cair;tidak
+46;ncd.178.jpg;hijau muda;cair;tidak
+47;ncd.179.jpg;hijau muda;cair;tidak
+48;ncd.180.jpg;hijau muda;cair;tidak
+49;ncd.181.jpg;hijau muda;cair;tidak
+50;ncd.182.jpg;hijau muda;cair;tidak
+51;ncd.183.jpg;hijau muda;cair;tidak
+52;ncd.184.jpg;hijau muda;cair;tidak
+53;ncd.185.jpg;hijau muda;cair;tidak
+54;ncd.186.jpg;hijau muda;cair;tidak
+55;ncd.187.jpg;hijau muda;cair;tidak
+56;ncd.188.jpg;hijau muda;cair;tidak
+57;ncd.189.jpg;hijau muda;cair;tidak
+58;ncd.190.jpg;hijau muda;cair;tidak
+59;ncd.191.jpg;hijau muda;cair;tidak
+60;ncd.192.jpg;hijau muda;cair;tidak
+61;ncd.193.jpg;hijau muda;cair;tidak
+62;ncd.194.jpg;hijau muda;cair;tidak
+63;ncd.195.jpg;hijau muda;cair;tidak
+64;ncd.196.jpg;hijau muda;cair;tidak
+65;ncd.197.jpg;hijau muda;cair;tidak
+66;ncd.198.jpg;hijau muda;cair;tidak
+67;ncd.199.jpg;hijau muda;cair;tidak
+68;ncd.200.jpg;hijau muda;cair;tidak
+69;ncd.201.jpg;hijau muda;cair;tidak
+70;ncd.202.jpg;hijau muda;cair;tidak
+71;ncd.203.jpg;hijau muda;cair;tidak
+72;ncd.204.jpg;hijau muda;cair;tidak
+73;ncd.205.jpg;hijau muda;cair;tidak
+74;ncd.206.jpg;hijau muda;cair;tidak
+75;ncd.207.jpg;hijau muda;cair;tidak
+76;ncd.208.jpg;hijau muda;cair;tidak
+77;ncd.209.jpg;hijau muda;cair;tidak
+78;ncd.210.jpg;hijau muda;cair;tidak
+79;salmo.0.jpg;hitam;padat;ya
+80;salmo.1.jpg;hitam;padat;ya
+81;salmo.2.jpg;hitam;padat;ya
+82;salmo.3.jpg;hitam;padat;ya
+83;salmo.4.jpg;hitam;padat;ya
+84;salmo.5.jpg;hitam;padat;ya
+85;salmo.6.jpg;hitam;padat;ya
+86;salmo.7.jpg;hitam;padat;ya
+87;salmo.8.jpg;hitam;padat;ya
+88;salmo.9.jpg;hitam;padat;ya
+89;salmo.10.jpg;hitam;padat;ya
+90;salmo.11.jpg;hitam;padat;ya
+91;salmo.12.jpg;coklat tua;padat;ya
+92;salmo.13.jpg;hitam;padat;ya
+93;salmo.14.jpg;hitam;padat;ya
+94;salmo.15.jpg;hitam;padat;ya
+95;salmo.16.jpg;coklat tua;padat;ya
+96;salmo.17.jpg;hitam;padat;ya
+97;salmo.18.jpg;hitam;padat;ya
+98;salmo.19.jpg;hitam;padat;ya
+99;salmo.20.jpg;hitam;padat;tidak
+100;salmo.21.jpg;hitam;padat;ya
+101;salmo.22.jpg;hitam;cair;tidak
+102;salmo.23.jpg;hitam;padat;ya
+103;salmo.24.jpg;hitam;padat;ya
+104;salmo.25.jpg;hitam;padat;ya
+105;salmo.26.jpg;hitam;padat;ya
+106;salmo.27.jpg;hitam;padat;ya
+107;salmo.28.jpg;hitam;padat;ya
+108;salmo.29.jpg;hitam;padat;ya
+109;salmo.30.jpg;hitam;padat;ya
+110;salmo.31.jpg;hitam;padat;ya
+111;salmo.32.jpg;hitam;padat;ya
+112;salmo.33.jpg;hitam;padat;ya
+113;salmo.34.jpg;hitam;padat;ya
+114;salmo.35.jpg;hitam;padat;ya
+115;salmo.36.jpg;hitam;padat;ya
+116;salmo.37.jpg;hitam;padat;ya
+117;salmo.38.jpg;hitam;padat;ya
+118;salmo.39.jpg;hitam;padat;ya
+119;salmo.40.jpg;hitam;padat;ya
+120;salmo.41.jpg;hitam;padat;ya
+121;salmo.42.jpg;hitam;padat;ya
+122;salmo.43.jpg;hitam;padat;ya
+123;salmo.44.jpg;hitam;padat;ya
+124;salmo.45.jpg;hitam;padat;ya
+125;salmo.46.jpg;hitam;padat;tidak
+126;salmo.47.jpg;hitam;padat;ya
+127;salmo.48.jpg;hitam;cair;tidak
+128;salmo.49.jpg;hitam;padat;ya
+129;salmo.50.jpg;hitam;padat;ya
+130;salmo.51.jpg;hitam;padat;ya
+131;salmo.52.jpg;hitam;padat;ya
+132;salmo.53.jpg;hitam;padat;ya
+133;salmo.54.jpg;hitam;padat;ya
+134;salmo.55.jpg;hitam;padat;ya
+135;salmo.56.jpg;hitam;padat;ya
+136;salmo.57.jpg;hitam;padat;ya
+137;salmo.58.jpg;hitam;padat;ya
+138;salmo.59.jpg;hitam;padat;ya
+139;salmo.60.jpg;hitam;padat;ya
+140;salmo.61.jpg;hitam;padat;ya
+141;salmo.62.jpg;hitam;padat;ya
+142;salmo.63.jpg;hitam;padat;ya
+143;salmo.64.jpg;hitam;padat;ya
+144;salmo.65.jpg;hitam;padat;ya
+145;salmo.66.jpg;hitam;padat;ya
+146;salmo.67.jpg;hitam;padat;ya
+147;salmo.68.jpg;hitam;padat;ya
+148;salmo.69.jpg;hitam;padat;ya
+149;salmo.70.jpg;hitam;padat;ya
+150;salmo.71.jpg;hitam;padat;ya
+151;salmo.72.jpg;hitam;padat;tidak
+152;salmo.73.jpg;hitam;padat;ya
+153;salmo.74.jpg;hitam;cair;tidak
+154;salmo.75.jpg;hitam;padat;ya
+155;healthy.0.jpg;coklat tua;padat;ya
+156;healthy.1.jpg;coklat tua;padat;tidak
+157;healthy.2.jpg;coklat tua;padat;tidak
+158;healthy.3.jpg;coklat tua;padat;ya
+159;healthy.4.jpg;coklat tua;padat;tidak
+160;healthy.5.jpg;coklat tua;padat;ya
+161;healthy.6.jpg;coklat tua;padat;ya
+162;healthy.7.jpg;coklat tua;padat;ya
+163;healthy.8.jpg;coklat tua;padat;ya
+164;healthy.9.jpg;coklat tua;padat;tidak
+165;healthy.10.jpg;coklat tua;padat;ya
+166;healthy.11.jpg;coklat tua;padat;ya
+167;healthy.12.jpg;coklat tua;padat;ya
+168;healthy.13.jpg;coklat tua;padat;tidak
+169;healthy.14.jpg;coklat tua;padat;ya
+170;healthy.15.jpg;coklat tua;padat;ya
+171;healthy.16.jpg;coklat tua;padat;ya
+172;healthy.17.jpg;coklat tua;padat;ya
+173;healthy.18.jpg;coklat tua;padat;ya
+174;healthy.19.jpg;coklat tua;padat;ya
+175;healthy.20.jpg;coklat tua;padat;ya
+176;healthy.23.jpg;coklat tua;padat;ya
+177;healthy.25.jpg;coklat tua;padat;ya
+178;healthy.26.jpg;coklat tua;padat;ya
+179;healthy.27.jpg;coklat tua;padat;ya
+180;healthy.28.jpg;coklat tua;padat;ya
+181;healthy.29.jpg;coklat tua;padat;tidak
+182;healthy.30.jpg;coklat tua;padat;tidak
+183;healthy.31.jpg;coklat tua;padat;ya
+184;healthy.32.jpg;coklat tua;padat;tidak
+185;healthy.33.jpg;coklat tua;padat;ya
+186;healthy.34.jpg;coklat tua;padat;ya
+187;healthy.35.jpg;coklat tua;padat;ya
+188;healthy.36.jpg;coklat tua;padat;ya
+189;healthy.37.jpg;coklat tua;padat;tidak
+190;healthy.38.jpg;coklat tua;padat;ya
+191;healthy.39.jpg;coklat tua;padat;ya
+192;healthy.40.jpg;coklat tua;padat;ya
+193;healthy.41.jpg;coklat tua;padat;tidak
+194;healthy.42.jpg;coklat tua;padat;ya
+195;healthy.43.jpg;coklat tua;padat;ya
+196;healthy.44.jpg;coklat tua;padat;ya
+197;healthy.45.jpg;coklat tua;padat;ya
+198;healthy.46.jpg;coklat tua;padat;ya
+199;healthy.47.jpg;coklat tua;padat;ya
+200;healthy.48.jpg;coklat tua;padat;ya
+201;healthy.49.jpg;coklat tua;padat;ya
+202;healthy.50.jpg;coklat tua;padat;ya
+203;healthy.51.jpg;coklat tua;padat;ya
+204;healthy.52.jpg;coklat tua;padat;ya
+205;healthy.53.jpg;coklat tua;padat;ya
+206;healthy.54.jpg;coklat tua;padat;tidak
+207;healthy.55.jpg;coklat tua;padat;tidak
+208;healthy.56.jpg;coklat tua;padat;ya
+209;healthy.57.jpg;coklat tua;padat;tidak
+210;healthy.58.jpg;coklat tua;padat;ya
+211;healthy.59.jpg;coklat tua;padat;ya
+212;healthy.60.jpg;coklat tua;padat;ya
+213;healthy.61.jpg;coklat tua;padat;ya
+214;healthy.62.jpg;coklat tua;padat;tidak
+215;healthy.63.jpg;coklat tua;padat;ya
+216;healthy.64.jpg;coklat tua;padat;ya
+217;healthy.65.jpg;coklat tua;padat;ya
+218;healthy.66.jpg;coklat tua;padat;tidak
+219;healthy.67.jpg;coklat tua;padat;ya
+220;healthy.68.jpg;coklat tua;padat;ya
+221;healthy.69.jpg;coklat tua;padat;ya
+222;healthy.70.jpg;coklat tua;padat;ya
+223;healthy.71.jpg;coklat tua;padat;ya
+224;healthy.72.jpg;coklat tua;padat;ya
+225;cocci.1.jpg;coklat muda;cair;tidak
+226;cocci.3.jpg;coklat muda;cair;tidak
+227;cocci.2.jpg;coklat muda;cair;tidak
+228;cocci.0.jpg;coklat muda;cair;tidak
+229;cocci.4.jpg;coklat muda;cair;tidak
+230;cocci.5.jpg;coklat muda;cair;tidak
+231;cocci.6.jpg;coklat muda;cair;tidak
+232;cocci.7.jpg;coklat muda;cair;tidak
+233;cocci.9.jpg;coklat muda;cair;tidak
+234;cocci.10.jpg;coklat muda;cair;tidak
+235;cocci.11.jpg;coklat muda;cair;tidak
+236;cocci.12.jpg;coklat muda;cair;tidak
+237;cocci.13.jpg;coklat muda;cair;tidak
+238;cocci.14.jpg;coklat muda;cair;tidak
+239;cocci.15.jpg;coklat muda;cair;tidak
+240;cocci.16.jpg;coklat muda;cair;tidak
+241;cocci.17.jpg;coklat muda;cair;tidak
+242;cocci.18.jpg;coklat muda;cair;tidak
+243;cocci.19.jpg;coklat muda;cair;tidak
+244;cocci.20.jpg;coklat muda;cair;tidak
+245;cocci.21.jpg;coklat muda;cair;tidak
+246;cocci.22.jpg;coklat muda;cair;tidak
+247;cocci.23.jpg;coklat muda;cair;tidak
+248;cocci.24.jpg;coklat muda;cair;tidak
+249;cocci.25.jpg;coklat muda;cair;tidak
+250;cocci.26.jpg;coklat muda;cair;tidak
+251;cocci.27.jpg;coklat muda;cair;tidak
+252;cocci.28.jpg;coklat muda;cair;tidak
+253;cocci.29.jpg;coklat muda;cair;tidak
+254;cocci.30.jpg;coklat muda;cair;tidak
+255;cocci.31.jpg;coklat muda;cair;tidak
+256;cocci.32.jpg;coklat muda;cair;tidak
+257;cocci.33.jpg;coklat muda;cair;tidak
+258;cocci.34.jpg;coklat muda;cair;tidak
+259;cocci.35.jpg;coklat muda;cair;tidak
+260;cocci.36.jpg;coklat muda;cair;tidak
+261;cocci.37.jpg;coklat muda;cair;tidak
+262;cocci.38.jpg;coklat muda;cair;tidak
+263;cocci.39.jpg;coklat muda;cair;tidak
+264;cocci.40.jpg;coklat muda;cair;tidak
+265;cocci.41.jpg;coklat muda;cair;tidak
+266;cocci.42.jpg;coklat muda;cair;tidak
+267;cocci.43.jpg;coklat muda;cair;tidak
+268;cocci.44.jpg;coklat muda;cair;tidak
+269;cocci.45.jpg;coklat muda;cair;tidak
+270;cocci.46.jpg;coklat muda;cair;tidak
+271;cocci.47.jpg;coklat muda;cair;tidak
+272;cocci.48.jpg;coklat muda;cair;tidak
+273;cocci.49.jpg;coklat muda;cair;tidak
+274;cocci.50.jpg;coklat muda;cair;tidak
+275;cocci.51.jpg;coklat muda;cair;tidak
+276;cocci.52.jpg;coklat muda;cair;tidak
+277;cocci.53.jpg;coklat muda;cair;tidak
+278;cocci.54.jpg;coklat muda;cair;tidak
+279;cocci.55.jpg;coklat muda;cair;tidak
+280;cocci.56.jpg;coklat muda;cair;tidak
+281;cocci.57.jpg;coklat muda;cair;tidak
+282;cocci.58.jpg;coklat muda;cair;tidak
+283;cocci.59.jpg;coklat muda;cair;tidak
+284;cocci.60.jpg;coklat muda;cair;tidak
+285;cocci.61.jpg;coklat muda;cair;tidak
+286;cocci.62.jpg;coklat muda;cair;tidak
+287;cocci.63.jpg;coklat muda;cair;tidak
+288;cocci.64.jpg;coklat muda;cair;tidak
+289;cocci.65.jpg;coklat muda;cair;tidak
+290;cocci.66.jpg;coklat muda;cair;tidak
+291;cocci.67.jpg;coklat muda;cair;tidak
+292;cocci.68.jpg;coklat muda;cair;tidak
+293;cocci.69.jpg;coklat muda;cair;tidak
+294;cocci.70.jpg;coklat muda;cair;tidak
+295;cocci.71.jpg;coklat muda;cair;tidak
+296;cocci.72.jpg;coklat muda;cair;tidak
+297;cocci.73.jpg;coklat muda;cair;tidak
+298;cocci.74.jpg;coklat muda;cair;tidak
+299;cocci.75.jpg;coklat muda;cair;tidak
+300;cocci.76.jpg;coklat muda;cair;tidak
